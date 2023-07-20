@@ -12,7 +12,7 @@ Also, please follow [this](https://duongnt.com/query-boosting-elasticsearch) blo
 
 ## Run the sample code
 
-Run the application using your IDE of choice. You should see the following results in console (your thread name might be different).
+Run the application using your IDE of choice. You should see the following results in console.
 ```
 ==========================================================
 Hits: 5
